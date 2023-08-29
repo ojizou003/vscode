@@ -1,6 +1,6 @@
 # 「VisualStudioCode 完全入門」 リブロワークス 著
 
-2023/08/28
+2023/08/28~08/29
 
 - コマンドパレット  ctrl+shif+P
 - Zen Mode  ctrl+K -> Z
@@ -36,4 +36,5 @@
 - 前に開いていたファイルに戻る Alt+<-
 
 - デバッグ
-- Git
+- VSCode Web
+- ショートカット一覧
